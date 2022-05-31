@@ -9,3 +9,4 @@ Organizers for the 2022 Symposium:
 * Nicole Ginnan, Postdoctoral Researcher, Ecology and Evolutionary Biology, KU
 * Patrick Lansdon, Postdoctoral Researcher, Molecular Biosciences, KU
 * Wen-Juan Ma, Research Associate Associate, Molecular Biosciences, KU
+* Rob Unckless, KUGC Director, Associate Professor in MB at KU
