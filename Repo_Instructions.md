@@ -17,7 +17,7 @@ These steps will create an independent copy of the original repository and will 
 * Click "Add File"
 * Click "Create New File"
 * On the new page, you can add the name of your file. **To make it a folder** add a / after the name
-  * eg KUGC_SymposiumPlanning/2023/Organizers.md
+  * eg KUGC_SymposiumPlanning/2023_Symposium/Organizers.md
 
 
 ### Uploading files:
