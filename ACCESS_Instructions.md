@@ -34,15 +34,15 @@ I recommend assigning one person from the organizing committee to manage and add
 # If you don't want to interact with Github to access and add content:
 
 * Download a zipped directory copy of the repository to your local computer
- * Click the green Code button
- * Click download zipped file
+  * Click the green Code button
+  * Click download zipped file
 * Expand the directory on your local computer (if necessary) and store the directory wherever convenient.
 * Add, access, modify files for the current symposium
 * **When the symposium is over** compress your directory with year specific information and upload the zipped directory to the forked repository on Github that they can be used as reference for future symposia.
- * Click "add files"
- * Click "upload files"
- * Drag and drop your zipped symposium directory
- * Click "Commit changes" at the bottom of the screen
+  * Click "add files"
+  * Click "upload files"
+  * Drag and drop your zipped symposium directory
+  * Click "Commit changes" at the bottom of the screen
 
 
 ### If you have questions, feel free to contact the creator of the original repository at: https://github.com/ereverman/KUGC_SymposiumPlanning by submitting an issue via Github
