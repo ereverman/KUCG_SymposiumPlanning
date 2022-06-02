@@ -26,7 +26,7 @@ I recommend assigning one person from the organizing committee to manage and add
 * Open Github Desktop and sign in with your login information
 * Clone the KUCG repository
 * Add or edit files using your file manager navigator (finder on Mac, by default the repository is stored in the Documents directory)
-* When finished modifying content, return to Github Desktop
+* When finished modifying content, return to Github Desktop on your local computer
 * Add a summary documenting your changes (near bottom left of window)
 * Click Commit to main (near bottom left of window)
 * Click Push to sync local changes with the online repository (near upper middle of window)
