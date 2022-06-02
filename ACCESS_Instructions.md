@@ -19,7 +19,7 @@ These steps will create an independent copy of the original repository and will 
 
 ### Adding new content with Github:
 
-I recommend assigning one person from the organizing committee to manage and add content to the Github repository to prevent "traffic jams" (uploading the same information at the same time or by different names, etc.). Github allows you to upload files in bulk and one by one (by clicking "Add Files", but it is easier to clone your forked repository to your desktop to make modifications. To do this: 
+I recommend assigning one person from the organizing committee to manage and add content to the Github repository to prevent "traffic jams" (uploading the same information at the same time or by different names, etc.). Github allows you to upload files in bulk and one by one (by clicking "Add Files"), but it is easier to clone your forked repository to your desktop to make modifications. To do this: 
 
 * Download Github Desktop from here: https://desktop.github.com 
 * Move Github Desktop to your applications directory (Mac) or wherever your programs are stored (sorry windows, I'm not sure how this works for you)
