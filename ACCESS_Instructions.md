@@ -38,7 +38,7 @@ I recommend assigning one person from the organizing committee to manage and add
   * Click download zipped file
 * Expand the directory on your local computer (if necessary) and store the directory wherever convenient.
 * Add, access, modify files for the current symposium
-* **When the symposium is over** compress your directory with year specific information and upload the zipped directory to the forked repository on Github that they can be used as reference for future symposia.
+* **When the symposium is over** compress your directory with year specific information and upload the zipped directory to the forked repository on Github that it can be used as reference for future symposia.
   * Click "add files"
   * Click "upload files"
   * Drag and drop your zipped symposium directory
