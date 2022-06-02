@@ -5,6 +5,7 @@ This repository contains templates and final versions of materials from past KUG
 * SymposiumPlanning_Timeline_Overview.xlsx provides a timeline for planning each aspect of the symposium.
 * More detailed information specific to past symposia are in year-specific directories
 
+**NOTE: Content cannot be viewed directly on Github. To view content, download a copy of the repository as described below**
 
 ## How to use this repository:
 
